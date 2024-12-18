@@ -37,8 +37,9 @@ python train.py --data datasets/mnist/mnist.yaml --epochs 4 --weights models/yol
 ```
 ## Evaluation
 - You can use our trained model for evaluation or use your own model. Our model evaluation command is as follows：
-    python val.py --weights runs/train/exp/weights/best.pt --data datasets/mnist/mnist.yaml --img 640
-    
+```
+python val.py --weights runs/train/exp/weights/best.pt --data datasets/mnist/mnist.yaml --img 640
+```   
 
 
 ## Prerequisites
