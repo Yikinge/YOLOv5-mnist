@@ -1,8 +1,8 @@
 # YOLOv5 on MNIST Dataset
 Team members:
-王一  ：Model training，github upload
-王铁凝 ： Model evaluation
-孙思瀚 ： Model evaluation
+- 王一  ：Model training，github upload
+- 王铁凝 ： Model evaluation
+- 孙思瀚 ： Model evaluation
 
 This repository demonstrates how to use [YOLOv5](https://github.com/ultralytics/yolov5) to perform object detection on the MNIST dataset. YOLOv5, a state-of-the-art object detection model, is adapted to identify handwritten digits (0-9) in images from the MNIST dataset.
 
