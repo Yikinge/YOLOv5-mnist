@@ -20,7 +20,8 @@ This repository demonstrates how to use [YOLOv5](https://github.com/ultralytics/
 ## Introduction
 
 The MNIST dataset is a collection of handwritten digits, commonly used for training image processing systems. While YOLOv5 is typically used for general object detection tasks, we adapt it here for digit classification by treating each digit as a distinct object.You can check our trained models and tested accuracy in our runs folder. For most types, we have reached 98% standard.The following pictures are our test results
-![image](https://github.com/user-attachments/assets/079fb86b-d2e7-44f4-b437-02294f20a1b6)
+![image](https://github.com/user-attachments/assets/c2257845-f4fc-46c2-84ae-49d845550406)
+
 
 ## Getting Started
 - First prepare a code software, here we use pycharm
